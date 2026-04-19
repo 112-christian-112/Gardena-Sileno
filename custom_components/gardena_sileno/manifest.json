@@ -1,0 +1,12 @@
+{
+  "domain": "gardena_sileno",
+  "name": "Gardena Sileno",
+  "version": "1.0.0",
+  "documentation": "https://github.com/local/gardena_sileno",
+  "issue_tracker": "https://github.com/local/gardena_sileno/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_push",
+  "config_flow": true
+}

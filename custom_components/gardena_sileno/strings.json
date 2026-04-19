@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Gardena Smart System einrichten",
+        "description": "Gib deine Gardena/Husqvarna-Zugangsdaten ein.",
+        "data": {
+          "client_id": "Application Key",
+          "client_secret": "Application Secret"
+        }
+      },
+      "location": {
+        "title": "Standort auswählen",
+        "description": "Wähle deinen Gartenstandort aus.",
+        "data": {
+          "location_id": "Standort"
+        }
+      }
+    },
+    "error": {
+      "invalid_credentials": "Ungültige Zugangsdaten",
+      "cannot_connect": "Verbindung fehlgeschlagen",
+      "no_locations": "Keine Standorte gefunden",
+      "unknown": "Unbekannter Fehler"
+    },
+    "abort": {
+      "already_configured": "Gardena ist bereits eingerichtet"
+    }
+  }
+}
